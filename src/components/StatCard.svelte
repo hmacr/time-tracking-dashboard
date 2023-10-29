@@ -1,6 +1,6 @@
 <script lang="ts">
 
-	import IconEllipsis from "../assets/images/icon-ellipsis.svg";
+	// import IconEllipsis from "../assets/images/icon-ellipsis.svg";
 
 	export let title: string;
 	export let curr: string;
